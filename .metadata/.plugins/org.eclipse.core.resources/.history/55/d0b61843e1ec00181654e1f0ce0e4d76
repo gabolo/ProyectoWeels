@@ -1,0 +1,33 @@
+package proxy_final;
+
+public class ProxySingleton {
+	private static ProxySingleton unicaInstancia = null;
+	
+	  Usuario user;
+	 public ProxySingleton(Usuario user)
+	    {
+	        this.user=user;
+	    }
+
+	public static ProxySingleton reemplazarConstructora() {
+
+	if (unicaInstancia == null)
+
+	unicaInstancia = new ProxySingleton( user);
+
+	return unicaInstancia;
+
+	}
+	
+     Folder f=new Folder();
+     
+   
+    public void perform(){
+        if(user.getUsuario().equals("daniel") && user.getContraseña().equals("esgay")){
+      
+       f.perform();
+       System.out.println(f.toString());
+        }
+      
+    }
+}
