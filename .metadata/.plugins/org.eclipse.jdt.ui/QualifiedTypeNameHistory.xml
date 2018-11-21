@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="proxy_final.ProxySingleton"/>
+<fullyQualifiedTypeName name="facade.facadeclass"/>
+<fullyQualifiedTypeName name="com.google.api.server.spi.config.ApiNamespace"/>
 </qualifiedTypeNameHistroy>
