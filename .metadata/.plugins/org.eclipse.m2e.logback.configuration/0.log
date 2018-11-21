@@ -181,3 +181,4 @@
 2018-11-20 13:04:08,573 [Worker-25: Downloading sources for joputa] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-nop/1.7.21/slf4j-nop-1.7.21-sources.jar
 2018-11-20 13:04:09,113 [Worker-28: Downloading sources for joputa] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.12/snakeyaml-1.12-sources.jar
 2018-11-20 13:04:09,477 [Worker-28: Downloading sources for joputa] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.12/snakeyaml-1.12-sources.jar
+2018-11-21 10:56:22,066 [Worker-5: Loading available Gradle versions] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
