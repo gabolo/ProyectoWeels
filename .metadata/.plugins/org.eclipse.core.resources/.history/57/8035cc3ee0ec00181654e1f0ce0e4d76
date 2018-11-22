@@ -1,0 +1,5 @@
+package proxy_final;
+
+public class ProxySingleton {
+
+}

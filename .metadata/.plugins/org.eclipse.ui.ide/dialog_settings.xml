@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/dakaryu/Documents/Sexto Semestre/Diseño y Arquitectura/Patron Facade"/>
+		<item value="/home/dakaryu/Documents/Sexto Semestre/Diseño y Arquitectura/ProyectoWeels/Proxy_final"/>
+		<item value="/home/dakaryu/Documents/Sexto Semestre/Diseño y Arquitectura/ProyectoWeels"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
+</section>
